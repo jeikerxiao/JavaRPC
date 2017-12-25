@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jeiker</groupId>
+    <artifactId>rpc-demo2</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <name>rpc-demo2</name>
+    <url>http://maven.apache.org</url>
+
+    <modules>
+        <module>rpc-demo2-api</module>
+        <module>rpc-demo2-server</module>
+        <module>rpc-demo2-client</module>
+        <module>rpc-demo2-api</module>
+        <module>rpc-demo2-server</module>
+        <module>rpc-demo2-client</module>
+    </modules>
+
+</project>

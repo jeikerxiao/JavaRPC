@@ -13,6 +13,12 @@ Java RPC（Remote Procedure Call）远程调用服务的学习Demo。
 
 https://gitee.com/huangyong/rpc
 
+## 项目说明
+
+1. rpc-framework (框架代码)
+2. rpc-demo （框架使用演示）
+
+
 ## 运行说明
 
 1.安装 Zookeeper （假定已经安装在服务器：192.168.235.32 上）
